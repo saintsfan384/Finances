@@ -1,0 +1,22 @@
+﻿@model IEnumerable<Finances.Model.Expense>
+@ViewBag.Title
+<table>
+    @{
+    
+        foreach (var item in Model)
+        {
+        <tr>
+            <td>
+                @item.Description
+            </td>
+            <td>
+                @item.Amount
+            </td>
+        </tr>
+    
+    
+        }
+    }
+</table>
+<h2>
+    Index</h2>

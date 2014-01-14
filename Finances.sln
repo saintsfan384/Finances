@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Web Developer Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finances", "Finances\Finances.csproj", "{ADBDC8C4-B692-4863-9C12-16257222E7D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finances.Model", "Finances.Model\Finances.Model.csproj", "{BEED98DA-5D2C-469A-AD78-FD895CB89DE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finances.Repository", "Finances.Repository\Finances.Repository.csproj", "{6BFC9568-370F-4F0B-B6FF-812C7F8EED7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADBDC8C4-B692-4863-9C12-16257222E7D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADBDC8C4-B692-4863-9C12-16257222E7D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADBDC8C4-B692-4863-9C12-16257222E7D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADBDC8C4-B692-4863-9C12-16257222E7D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEED98DA-5D2C-469A-AD78-FD895CB89DE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEED98DA-5D2C-469A-AD78-FD895CB89DE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEED98DA-5D2C-469A-AD78-FD895CB89DE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEED98DA-5D2C-469A-AD78-FD895CB89DE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BFC9568-370F-4F0B-B6FF-812C7F8EED7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BFC9568-370F-4F0B-B6FF-812C7F8EED7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BFC9568-370F-4F0B-B6FF-812C7F8EED7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BFC9568-370F-4F0B-B6FF-812C7F8EED7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
